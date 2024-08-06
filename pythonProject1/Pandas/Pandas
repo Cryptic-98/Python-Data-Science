@@ -1,0 +1,16 @@
+Panda - an open source library that is built on top of NumPy.
+It offers various data structures and operations for manipulation numerical data and time series
+It uses 3 data structures which are:
+1. Series
+2. DataFrames
+3. Panel
+Uses:
+1. Import and work on datasets
+2. Data cleaning
+3. Used where size mutability is important
+4. Data normalization
+Series
+- A 1D data structure that is homogeneous in its nature and its size is immutable
+- By using Pandas libraries with series we are able to create heterogeneous series that are indexed
+We can also change the index from the default index
+We can create pandas series from dictionaries

@@ -1,0 +1,14 @@
+NumPy - a fundamental package that is used for numerical computation.
+- it provides mathematical functions to compute data as well as functions to operate multidimensional arrays and matrices efficiently.
+Arrays - these are a collection of elements of the same data type. (they are homogeneous)
+- arrays occupy fixed memory.
+- we do not have array data structures in python. (we only have NumPy arrays)
+- we can create arrays using NumPy from lists and tuples.
+Uses of NumPy:
+1. Data Analysis -
+2. Machine Learning and A.I. -
+3. Scientific Computations - biology, chemistry, physics, quantum computing.
+4. Array Manipulation -
+- we are able to perform arithmetic (addition, subtraction, multiplication, division) equations
+- arrays are indexed. (from zero until n - 1)
+- 2D arrays consist of rows and columns
