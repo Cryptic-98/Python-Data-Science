@@ -1,5 +1,4 @@
 import pandas as pd
-
 # creating pandas series
 data = [10, 20, 30, 45, 56, 60, 70]
 index = ['a', 'b', 'c', 'd', 'e', 'f', 'g']

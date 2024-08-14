@@ -1,0 +1,14 @@
+Handling Missing Data
+- Missing data can occur when no information is provided for one or more items or for a whole unit.
+- the purpose of handling missing data is to avoid data inconsistency and data redundancy.
+- they cause underfitting or perhaps overfitting.
+- missing data is a very big problem in real life scenarios.
+- missing data is referred to as NA (Not Available)
+
+checking for missing values using isnull() and notnull()
+- these methods return a boolean
+
+Filling missing values using fillna(), replace, interpolate()
+- in order to fill values in a dataset we use fillna() function. These functions replace NaN values with some
+  values woth some values of their own.
+- all these functions help in filling a null value in a data frame.
