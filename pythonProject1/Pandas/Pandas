@@ -14,7 +14,7 @@ Series
 - By using Pandas libraries with series we are able to create heterogeneous series that are indexed
 We can also change the index from the default index
 We can create pandas series from dictionaries
-Pandas dataframe is a 2-dimensional dara structure
+Pandas dataframe is a 2-dimensional data structure
 2D means it consists of tabular data (which is rows and columns)
 -it is size-mutable - meaning it can be resized
 it is also heterogeneous where each column represents data in the same attributes
