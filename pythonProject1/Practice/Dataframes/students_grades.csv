@@ -1,0 +1,16 @@
+StudentID,Name,Major,MidtermScore,FinalScore,AttendanceRate
+1,Bob,CS,78.0,80.0,90
+2,Steven,Math,94.0,90.0,80
+3,Grace,Eng,59.0,,94
+4,Lance,CS,93.0,89.0,85
+5,Jessie,CS,50.0,55.0,67
+6,Isabella,Eng,,76.0,89
+7,Yuta,CS,67.0,70.0,75
+8,Saki,Math,,74.0,80
+9,Rudy,Math,49.0,50.0,58
+10,Walter,CS,,,94
+11,Missy,Eng,58.0,49.0,49
+12,Angel,CS,92.0,55.0,69
+13,Trudy,Eng,78.0,95.0,49
+14,Ruth,Math,98.0,80.0,79
+15,Ethan,Eng,86.0,95.0,94

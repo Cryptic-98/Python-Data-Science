@@ -1,0 +1,13 @@
+Steps for data science:
+1. Data Collection
+2. Data cleaning and preparation
+3. Explanatory data analysis
+4. Modelling
+5. Evaluation and Interpretation
+
+The following data is:
+a. Level of pain - Ordinal
+b. Amount of money in your pocket - Ratio
+c. Rankings of golfers in a tournament - Ordinal
+d. Level of satisfaction with a particular breakfast cereal - Ordinal
+e. Categorisation of clothing hat, shirt, shoes, pants - Nominal

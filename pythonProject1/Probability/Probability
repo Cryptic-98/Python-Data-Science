@@ -1,0 +1,70 @@
+Probability Theory
+- Probability is a measure of the likelihood or chance of an event occurring.
+- is expressed as a number between 0 and 1 where 1 dignifies a certain event, and 0 signifies an impossible event.
+- it is calculated by dividing the number of favorable outcomes by the total possible outcomes.
+- rolling a dice
+what is the probability of getting a 4.
+total number of outcomes = 6
+- the favorable outcome of getting a 4, is 1.
+probability = 1/6
+Terms:
+1. Outcome - this means any possible result in a group of results, called a sample space.
+2. Sample space - the collection of all possible outcomes in an experiment.
+3. Event - any part of a sample space. If for instance, event A happens, it means one of the outcomes in A has occurred.
+4. Trial - each time you do an experiment, like flipping a coin.
+
+Probability is represented by "P"
+P(A) - probability of event A.
+
+Example:
+A standard deck of 52 playing cards is shuffled and one card is drawn at random. What is the theoretical probability of
+drawing a heart.
+P(A) = 13/52
+     = 25%
+
+A bag contains 4 black, 6 white, and 10 yellow balls. A ball is drawn at random. What is the theoretical probability of
+drawing a black and yellow ball?
+Outcome of pulling black = 4/20
+Outcome of pulling yellow = 10/20
+P(B) = 14/20
+     = 70%
+
+Rules of probability:
+1. Additional Rule - used when you want to find the probability of at least one of two mutually exclusive events.
+For two mutually exclusive events A and B occurring, is found by adding the individual probabilities of A and B.
+P(A u B) - which can be written as P(A or B)
+P(A u B) = P(A) + P(B) - P(A n B) where the probability of A and B occurring is
+
+Suppose events X and Y are independent, and the probabilities are as follows:
+- P(X) = 0.6
+- P(Y) = 0.4
+Calculate P(X u Y), assuming P(X n Y) = P(X) × P(Y):
+P(X n Y) = 0.24
+P(X u Y) = 0.76
+
+2. Multiplication Rule:
+- is used you want to find the probability of two independent events happening together. To find the chance of two events
+  A and B happening at the same time, multiplication is used.
+P(A n B) = P(A) × P(B)
+where P(A|B) is the likelihood of event B happening when event A has already occurred.
+1. Independent events
+P(A n B) = P(A) × P(B)
+2. Dependent events
+P(A n B) = P(A) × P(A|B)
+where P(B|A) is the likelihood of event B happening when event A has already occurred.
+
+A bag contains 5 red marbles and 3 blue marbles. Two marbles are drawn without replacement.
+What is the probability that both marbles drawn are red.
+
+P(A n B) = P(A) × P(A|B)
+- when one marble is drawn for the first time
+  P(A) = 5/8
+  - total possible remaining - 7
+  - if a red marble is drawn without replacement, what is the chance of getting another red marble.
+  P(A) = 4/7
+  P(A n B) = 5/8 × 4/7
+
+
+
+
+

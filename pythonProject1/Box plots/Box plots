@@ -1,0 +1,15 @@
+Box plots - it is a way to visualise the distribution of data using a box and some vertical lines. It is also known as a whisker
+            plot
+- The data can be distributed between 6 key ranges:
+1. Minimum: Q(minimum Q-1.5)
+2. 1 quartile (Q1) : 25th percentile
+3. Median: 50th percentile
+4. 3rd quartile: Q3: 75th percentile
+5. Maximum: Q3 + 1.5
+6. Mean
+
+- Those points which are out of range of the boxplot are called outliers. We can creaer the boxplot of the data to determine th
+  following:
+- The number of outliers in a dataset.
+- to determine whether the data is skewed or not.
+- to determine the range of data3

@@ -1,0 +1,32 @@
+Machine learning - the study of methods for programming languages to learn.
+                 - building machines that automatically learn from experience.
+                 - refers to the changes in systems that perform tasks associated with AI.
+Steps in machine learning:
+1. Data Collection
+2. Representation
+3. Modeling
+4. Estimation
+5. Validation
+Advantages of Machine Learning:
+- Solving problems
+- Intelligence drawn from common sense AI
+- Reducing constraints over time achieving complete autonomy.
+Disadvantages
+- Application specific algorithms.
+- Real world problems have too many variables and sensors might be too noisy.
+- Computational complexity.
+Types of machine learning:
+1. Supervised Learning
+2. Unsupervised Learning
+3. Semi-supervised Learning (reinforcement)
+
+Unsupervised learning
+- studies how input patterns can be represented to reflect the statistical structure of the overall collection of inout patterns
+- no outputs are used
+- learning is provided only unlabeled data
+- no feedback is provided from the environment
+**Advantage:
+- most of the laws of science were developed through unsupervised learning.
+**Disadvantage:
+
+Supervised learning

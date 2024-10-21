@@ -1,0 +1,22 @@
+Supervised learning
+- Regression is a statistical approach used to analyze the relationship between a dependant variable (target variable)
+  one or more independent variables (predictor variables).
+- The objective is to determine the most suitable function that characterizes the connection between these variables.
+- it seeks to find the best-fit model, which can be utilized to make predictions or draw conclusions.
+
+The Three Main Metrics that are used for evaluating the trained regression model are:
+1. Variance
+2. Bias
+3. Error
+If Variance is high, it leads to overfitting, and when bias is high, it leads to underfitting.
+- based on the number of input features and output labels, regression is classified as linear (one input and one output),
+  multiple regression (many inputs and one output), and multivariate (many outputs)
+- Linear regression allows us to plot linear questions i.e. a straight line. We need to tune the coefficient and bias of the linear
+  equation over the training data for accurate prediction.
+  Linear regression equation:
+  y = B0 + B1X
+  where
+  y is the dependent variable
+  x is the independent variable
+  B0 is the intercept
+  B1 is the slope
